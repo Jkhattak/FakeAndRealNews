@@ -11,7 +11,7 @@ The approach taken to classify news articles into real and fake categories invol
 
 <li> Data Preprocessing: The raw text data was cleaned, tokenized, and vectorized to prepare it for input into the machine learning model.
 
-<li> Feature Extraction: The textual data was transformed into numerical feature vectors using techniques such as Bag of Words, TF-IDF, and Word2Vec.
+<li> Feature Extraction: The textual data was transformed into numerical feature vectors using techniques such as Bag of Words and Word2Vec.
 
 <li> Model Training: 
 
