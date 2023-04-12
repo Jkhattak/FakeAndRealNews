@@ -37,8 +37,9 @@ ExtraTreesClassifier: Extra trees classifier
 SVC: Support Vector Machine classifier
 KNeighborsClassifier: K-Nearest Neighbors classifier
 
-#Results
+# Results
 The performance of the machine learning algorithms was evaluated using accuracy and precision metrics. The results are as follows:
+![Results](NewsClassifierImage.png)
 
 
 # Conclusion
