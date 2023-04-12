@@ -1,5 +1,5 @@
 # News Article Classification
-This project aims to classify news articles into two categories - real and fake. The dataset used for this project is a collection of news articles labeled as either real or fake. The dataset contains a total of 38,729 articles, with 21,417 articles labeled as real and 23,481 articles labeled as fake. The dataset was obtained from Kaggle.
+This project aims to classify news articles into two categories - real and fake. The dataset used for this project is a collection of news articles labeled as either real or fake. The dataset contains a total of 44,898 articles, with 21,417 articles labeled as real and 23,481 articles labeled as fake. The dataset was obtained from Kaggle.
 
 # Dataset Details
 The dataset contains news articles in English language labeled as either real or fake. The dataset has the following columns:
