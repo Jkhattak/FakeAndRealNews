@@ -4,38 +4,38 @@ This project aims to classify news articles into two categories - real and fake.
 # Dataset Details
 The dataset contains news articles in English language labeled as either real or fake. The dataset has the following columns:
 
-title: the title of the article
-text: the text of the article
-subject: the subject of the article
-date: the date the article was published
+<li> Title: the title of the article
+<li> Text: the text of the article
+<li> Subject: the subject of the article
+<li> Date: the date the article was published
 
 # Python Libraries Used
 The following Python libraries were used for this project:
 
-pandas: for data manipulation and analysis
-numpy: for numerical operations
-matplotlib: for data visualization
-seaborn: for data visualization
-nltk: for natural language processing
-string: for string operations
-wordcloud: for creating word clouds
-collections: for creating counters
-sklearn: for machine learning algorithms
-pickle: for saving and loading trained models
+<li> pandas: for data manipulation and analysis
+<li> numpy: for numerical operations
+<li> matplotlib: for data visualization
+<li> seaborn: for data visualization
+<li> nltk: for natural language processing
+<li> string: for string operations
+<li> wordcloud: for creating word clouds
+<li> collections: for creating counters
+<li> sklearn: for machine learning algorithms
+<li> pickle: for saving and loading trained models
 
 # Machine Learning Algorithms Used
 The following machine learning algorithms were used for this project:
 
-XGBClassifier: XGBoost classifier
-BaggingClassifier: Bagging classifier
-RandomForestClassifier: Random forest classifier
-DecisionTreeClassifier: Decision tree classifier
-AdaBoostClassifier: AdaBoost classifier
-GradientBoostingClassifier: Gradient boosting classifier
-LogisticRegression: Logistic regression classifier
-ExtraTreesClassifier: Extra trees classifier
-SVC: Support Vector Machine classifier
-KNeighborsClassifier: K-Nearest Neighbors classifier
+<li> XGBClassifier: XGBoost classifier
+<li> BaggingClassifier: Bagging classifier
+<li> RandomForestClassifier: Random forest classifier
+<li> DecisionTreeClassifier: Decision tree classifier
+<li> AdaBoostClassifier: AdaBoost classifier
+<li> GradientBoostingClassifier: Gradient boosting classifier
+<li> LogisticRegression: Logistic regression classifier
+<li> ExtraTreesClassifier: Extra trees classifier
+<li> SVC: Support Vector Machine classifier
+<li> KNeighborsClassifier: K-Nearest Neighbors classifier
 
 # Results
 The performance of the machine learning algorithms was evaluated using accuracy and precision metrics. The results are as follows:
